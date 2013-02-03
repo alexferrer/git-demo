@@ -1,0 +1,13 @@
+Este archivo contiene los colores en ingles, por favor cambia un color y haz el commit con su mensaje respectivo
+
+
+Colores
+
+red
+blue
+green
+yellow
+black
+white
+
+red blue green white yellow black
