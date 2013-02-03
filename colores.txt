@@ -12,11 +12,11 @@ red
 green 
 blue
 
-escojo el color "red", lo cambio al espanol y dejo los otros tal cual
+Escojo el color "green", lo cambio al espanol (Verde)  y dejo los otros tal cual
 original     nuevo
 
-red          rojo
-green        green
+red          red
+green        verde
 blue         blue
 
 -------------------------------------------------------------------------------------------------------
