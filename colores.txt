@@ -7,6 +7,19 @@
 Este archivo contiene los colores en ingles, por favor escoje un color y cambialo al casstellano
 luego haz el commit con su mensaje respectivo.
 
+Ejemplo: 
+red 
+green 
+blue
+
+escojo el color "red", lo cambio al espanol y dejo los otros tal cual
+original     nuevo
+
+red          rojo
+green        green
+blue         blue
+
+-------------------------------------------------------------------------------------------------------
 
 Colores
 
