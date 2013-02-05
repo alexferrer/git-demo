@@ -34,5 +34,6 @@ yellow
 black
 white
 orange
+red yellow
 
 red blue green white yellow black
