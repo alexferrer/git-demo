@@ -37,3 +37,5 @@ orange
 red yellow
 
 red blue green white yellow black
+
+color BLANCO
