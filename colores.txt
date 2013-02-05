@@ -40,5 +40,6 @@ red blue green white yellow black
 
 color BLANCO
 
-
 color AMARILLO
+
+color naranja
