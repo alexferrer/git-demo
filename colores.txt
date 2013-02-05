@@ -1,0 +1,38 @@
+************************
+* Archivo Colores      *
+*  por Alex Ferrer     *
+************************
+
+este cambio lo hice yo, paúl.
+este cambio lo hice yo, otra vez, paúl.
+esto es un cambio en mi maquina, pero creo que deberia borrarlo
+
+
+Este archivo contiene una lista de colores en ingles. Por favor escoja un solo color y cambielo al castellano.
+Luego haga commit con su respectivo mensaje.
+
+Ejemplo: 
+red 
+green 
+blue
+
+Escojo el color "green", lo cambio al espanol (Verde)  y dejo los otros tal cual
+original     nuevo
+
+red          red
+green        verde
+blue         blue
+
+-------------------------------------------------------------------------------------------------------
+
+Colores
+
+red
+blue
+green
+yellow
+black
+white
+orange
+
+red blue green white yellow black
