@@ -3,8 +3,8 @@
 *  por Alex Ferrer     *
 ************************
 
-este cambio lo hice yo, paúl.
-este cambio lo hice yo, otra vez, paúl.
+este cambio lo hice yo, paï¿½l.
+este cambio lo hice yo, otra vez, paï¿½l.
 esto es un cambio en mi maquina, pero creo que deberia borrarlo
 
 
@@ -19,9 +19,9 @@ blue
 Escojo el color "green", lo cambio al espanol (Verde)  y dejo los otros tal cual
 original     nuevo
 
-red          red
+red          rojo
 green        verde
-blue         blue
+blue         azul
 
 -------------------------------------------------------------------------------------------------------
 
