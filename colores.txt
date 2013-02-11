@@ -22,8 +22,13 @@ original     nuevo
 red          rojo
 green        verde
 blue         azul
+pink
+black
+yllow
 
 -------------------------------------------------------------------------------------------------------
+
+
 
 Colores
 
