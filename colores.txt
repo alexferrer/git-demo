@@ -3,9 +3,6 @@
 *  por Alex Ferrer     *
 ************************
 
-esto es un cambio en mi maquina, pero creo que deberia borrarlo
-
-
 Este archivo contiene una lista de colores en ingles. Por favor escoja un solo color y cambielo al castellano.
 Luego haga commit con su respectivo mensaje.
 
