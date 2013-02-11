@@ -1,0 +1,8 @@
+$ cat .gitignore
+# a comment - Esto es un comentario
+*.a # no rastrea archivos del formato .a
+!lib.a # pero si rastrea lib.a aunque no el resto de .a
+/nivel01 # ignora todos los archivos en nivel01 mas no en los subdirectorios
+build/ #ignora todos los archivos de build/
+doc/*.txt # ignora doc/notes.txt, pero no doc/server/arch.text, solo los del primer nivel
+*~
