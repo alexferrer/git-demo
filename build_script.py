@@ -1,3 +1,4 @@
+import sys
 print "*** Script para construir el projecto demo **************"
 print "*********************************************************"
 print "Compilando El codigo"
@@ -22,4 +23,8 @@ print
 print
 print "El build y deploy termino exitosamente "
 #cambio trifial para gatillar un build en jenkings
+status = 0 #0 indica que el build fue exitoso
+#status = 1 #0 indica que el build fallo
+
+sys.exit(status)  
 
