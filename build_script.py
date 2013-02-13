@@ -20,8 +20,8 @@ print " 1,2,3,4,5"
 print " moviendo graficos y archivos estaticos"
 print
 
-#destino = "/var/www/ngnix-default/demo.html"
-destino = "demo.html"
+destino = "/var/www/ngnix-default/demo.html"
+#destino = "demo.html"
 with open(destino,"a") as myfile:
      myfile.write("nueva linea <br>")
      myfile.close()
