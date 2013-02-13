@@ -1,4 +1,6 @@
 import sys
+import datetime
+
 print "*** Script para construir el projecto demo **************"
 print "*********************************************************"
 print "Compilando El codigo"
@@ -20,10 +22,15 @@ print " 1,2,3,4,5"
 print " moviendo graficos y archivos estaticos"
 print
 
-destino = "/var/www/ngnix-default/demo.html"
-#destino = "demo.html"
+#destino = "/var/www/ngnix-default/demo.html"
+
+destino = "demo.html"
+
+now = datetime.datetime.now()
+mensaje = now.strftime("%Y-%m-%d %H:%M  %S")
+
 with open(destino,"a") as myfile:
-     myfile.write("nueva linea <br>")
+     myfile.write("Nueva version "+mensaje+" <br>")
      myfile.close()
 
 print "Deploy al servidor terminado exitosamente"
