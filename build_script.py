@@ -1,3 +1,7 @@
+#script para construir (build) un sistema y desplegarlo
+# en el servidor
+# Alex Ferrer 02/2013
+
 import sys
 import datetime
 
