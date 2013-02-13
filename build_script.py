@@ -29,7 +29,7 @@ destino = "demo.html"
 now = datetime.datetime.now()
 mensaje = now.strftime("%Y-%m-%d %H:%M  %S")
 
-with open(destino,"a") as myfile:
+with open(destino,"w+") as myfile:
      myfile.write("Nueva version "+mensaje+" <br>")
      myfile.close()
 
