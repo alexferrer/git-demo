@@ -18,8 +18,17 @@ print "Iniciando deploy al servidor web"
 print " moviendo ejecutables al servidor"
 print " 1,2,3,4,5" 
 print " moviendo graficos y archivos estaticos"
-print "Deploy al servidor terminado exitosamente"
 print
+
+#destino = "/var/www/ngnix-default/demo.html"
+destino = "demo.html"
+with open(destino,"a") as myfile:
+     myfile.write("nueva linea <br>")
+     myfile.close()
+
+print "Deploy al servidor terminado exitosamente"
+
+
 print
 print "El build y deploy termino exitosamente "
 #cambio trifial para gatillar un build en jenkings
